@@ -12,7 +12,7 @@
     "csv-parser": "~1.4.6",
     "csv-write-stream": "~0.2.1",
     "event-stream": "~3.1.7",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.19",
     "concat-stream": "~1.4.6",
     "through2": "~0.6.2"
   }
